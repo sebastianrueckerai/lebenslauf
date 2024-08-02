@@ -2,12 +2,6 @@
 
 **Lebenslauf**
 
-- **Adresse:** Sandsteingärten 8, 01796 Pirna, Deutschland
-- **E-Mail:** mail@sebastianruecker.com
-- **Telefon:** +49 (0) 17623746653
-
----
-
 ## Persönliche Informationen
 
 - **Geburtsdatum:** 6. September 1983
